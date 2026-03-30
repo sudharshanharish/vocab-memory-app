@@ -36,10 +36,19 @@ pnpm dev
 
 ## Screenshots
 
-(Add your screenshots here)
+
 
 * Challenge page with save feature
 * Dashboard with favorites and history
+
+### Dashboard Overview
+![Dashboard](./screenshots/dashboard-overview.png)
+
+### Dashboard with Favorites
+![Favorites](./screenshots/dashboard-favorites.png)
+
+### Revisit Favorite Word
+![Revisit](./screenshots/revisit-word.png)
 
 ## Improvements (Future Work)
 
